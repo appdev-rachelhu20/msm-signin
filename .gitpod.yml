@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2021-photogram-signin-hotfix
+image: jelaniwoods/appdev2021-msm-signin-hotfix
 tasks:
   - command: bundle install
   - init: bin/setup
